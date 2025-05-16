@@ -15,25 +15,7 @@ This project explores and models student academic performance using both regress
 
 ## 📁 Project Structure
 
-├── data_sources/
-│ └── README.md – Source and description of raw data
-│
-├── sql_transformation/
-│ └── transformations.sql – SQL cleaning & preprocessing
-│
-├── python_notebook_ML/
-│ └── ML_Student_Performance.ipynb – ML models & evaluation
-│
-├── powerbi_report/
-│ └── Student_Performance.pbix – Final Power BI report
-│
-├── documentation/
-│ └── README.md – Summary of project flow & insights
-│
-├── images/
-│ └── *.png – Screenshots for documentation and README
-│
-└── README.md – ← You are here
+![Hierarchy](images/Hierarchy.PNG)
 
 ## 📊 Power BI Report
 
